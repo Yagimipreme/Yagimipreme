@@ -1,4 +1,4 @@
-# Hi, I'm Yagimipreme 👋
+# Hi, me Yagimipreme 👋
 
 I'm a **full-stack software developer** interested in useful applications, developer tools, automation, and applied AI. I like working across the stack—from interfaces and APIs to data processing, integrations, and the systems behind them.
 
